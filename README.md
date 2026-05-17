@@ -43,8 +43,4 @@ from page performance metrics.
 2. **Extended Analytics** → Word Count,
    Inlinks, Impressions analysis
 
-## How to Run
-1. Clone repository
-2. Install: pip install pandas matplotlib seaborn
-3. Run: index.ipynb (all cells in order)
-4. Open: PagePerformanceDashboard.pbix in Power BI
+
